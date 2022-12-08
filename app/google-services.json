@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "153892885611",
+    "project_id": "geofenceremindar",
+    "storage_bucket": "geofenceremindar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153892885611:android:f772680af69ca7f6a44d2e",
+        "android_client_info": {
+          "package_name": "com.udacity.project4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153892885611-4sr1lg7l28ucak86v9b4p37kbulv9nb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacity.project4",
+            "certificate_hash": "a220903080dcd88445db58d0e64b210d55a14a7c"
+          }
+        },
+        {
+          "client_id": "153892885611-c593a2b4ck63u3ktm3r6o55uv6m9q2qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3XXZaRJJ5c2U3r1_ypWM7fL50cbnEtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153892885611-c593a2b4ck63u3ktm3r6o55uv6m9q2qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
